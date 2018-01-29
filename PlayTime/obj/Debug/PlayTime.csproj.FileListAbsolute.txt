@@ -1,0 +1,14 @@
+C:\Users\Codi\source\repos\PlayTime\PlayTime\obj\Debug\PlayTime.csprojResolveAssemblyReference.cache
+C:\Users\Codi\source\repos\PlayTime\PlayTime\obj\Debug\PlayTime.csproj.CoreCompileInputs.cache
+C:\Users\Codi\source\repos\Playtime\PlayTime\bin\Debug\PlayTime.exe.config
+C:\Users\Codi\source\repos\Playtime\PlayTime\bin\Debug\PlayTime.exe
+C:\Users\Codi\source\repos\Playtime\PlayTime\bin\Debug\PlayTime.pdb
+C:\Users\Codi\source\repos\Playtime\PlayTime\obj\Debug\PlayTime.exe
+C:\Users\Codi\source\repos\Playtime\PlayTime\obj\Debug\PlayTime.pdb
+C:\Users\Codi\source\repos\Personal Projects\PlayTime\PlayTime\bin\Debug\PlayTime.exe.config
+C:\Users\Codi\source\repos\Personal Projects\PlayTime\PlayTime\bin\Debug\PlayTime.exe
+C:\Users\Codi\source\repos\Personal Projects\PlayTime\PlayTime\bin\Debug\PlayTime.pdb
+C:\Users\Codi\source\repos\Personal Projects\PlayTime\PlayTime\obj\Debug\PlayTime.csprojResolveAssemblyReference.cache
+C:\Users\Codi\source\repos\Personal Projects\PlayTime\PlayTime\obj\Debug\PlayTime.csproj.CoreCompileInputs.cache
+C:\Users\Codi\source\repos\Personal Projects\PlayTime\PlayTime\obj\Debug\PlayTime.exe
+C:\Users\Codi\source\repos\Personal Projects\PlayTime\PlayTime\obj\Debug\PlayTime.pdb
